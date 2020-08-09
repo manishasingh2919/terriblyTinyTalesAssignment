@@ -1,7 +1,10 @@
 # Terribly Tiny Tales Assignment
 
-> Words Frequency Counter Backend by Node.Js and Frontend by React Js.
-View Demo here
+> Words Frequency Counter Backend by Node.Js and Frontend by React Js.<br>
+View Demo [here](https://terriblytinytales-assignment.herokuapp.com/) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)<br>
+```
+Hosted on Heroku
+```
 
 ## Usage
 Install [nodemon](https://github.com/remy/nodemon)
@@ -40,11 +43,11 @@ The key to use an Express backend with a project created with `create-react-app`
 This tells Webpack development server to proxy our API requests to our API server, given that our Express server is running on **localhost:5000**
 
 ## Basic Work Flow
->Frontend is devloped in [React Js](https://reactjs.org/) where a textbox which accepts a number input N with a Submit button.
-Value N is the parsed to backend which is developed on [Node.Js](https://nodejs.org/) and [yarn](https://yarnpkg.com/) as an package manager is used.
-At backend, file stored at url is fetched, read and processed for giving a sorted value of words and their frequency of occurrence in the file.
-Then on the basis of value N it  return the top N most frequently occurring words in this file.
-At last all the array of data according to value N is parsed to client side which display the top N words and their frequency of occurrence in the frontend, in a tabular format.
+>->Frontend is devloped in [React Js](https://reactjs.org/) where a textbox which accepts a number input N with a Submit button.<br>
+->Value N is the parsed to backend which is developed on [Node.Js](https://nodejs.org/) and [yarn](https://yarnpkg.com/) as an package manager is used.<br>
+->At backend, file stored at url is fetched, read and processed for giving a sorted value of words and their frequency of occurrence in the file.<br>
+->Then on the basis of value N it  return the top N most frequently occurring words in this file.<br>
+->At last all the array of data according to value N is parsed to client side which display the top N words and their frequency of occurrence in the frontend, in a tabular format.
 
 ## Test Cases and Screenshots
 **Frontend Layout**
