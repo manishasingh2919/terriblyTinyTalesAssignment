@@ -2,9 +2,6 @@
 
 > Words Frequency Counter Backend by Node.Js and Frontend by React Js.<br>
 View Demo [here](https://terriblytinytales-assignment.herokuapp.com/) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)<br>
-```
-Hosted on Heroku
-```
 
 ## Usage
 Install [nodemon](https://github.com/remy/nodemon)
