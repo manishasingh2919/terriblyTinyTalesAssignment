@@ -47,3 +47,14 @@ Then on the basis of value N it  return the top N most frequently occurring word
 At last all the array of data according to value N is parsed to client side which display the top N words and their frequency of occurrence in the frontend, in a tabular format.
 
 ## Test Cases and Screenshots
+**Frontend Layout**
+![](Screenshots/Screenshot%20(65).png)
+
+**(Test Case 1)** Result for value of N = 10
+![](Screenshots/Screenshot%20(67).png)
+
+**(Test Case 2)** Result for value of N = 5
+![](Screenshots/Screenshot%20(69).png)
+
+**Test Data on console**
+![](Screenshots/Screenshot%20(70).png)
