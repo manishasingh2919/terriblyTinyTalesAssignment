@@ -1,6 +1,7 @@
 # Terribly Tiny Tales Assignment
 
-> Words Frequency Counter Backend by Node.Js and Frontend by React Js
+> Words Frequency Counter Backend by Node.Js and Frontend by React Js.
+View Demo here
 
 ## Usage
 Install [nodemon](https://github.com/remy/nodemon)
